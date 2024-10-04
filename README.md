@@ -1,0 +1,1 @@
+# plugins-eazy-xmlrpc-pingback-disable
